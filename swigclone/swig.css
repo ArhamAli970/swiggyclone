@@ -1,0 +1,394 @@
+*{  list-style: none;
+    margin: 0;
+    padding: 0; 
+    text-decoration: none;
+}  
+header{ 
+    background-color: #fc8019; 
+    text-transform: capitalize;
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    color: black; 
+    height: 80px;
+
+}  
+button{ 
+    background-color: aliceblue;
+    border: 2px solid aliceblue;
+    border-radius: 3px ;  
+    height: 20px;
+
+
+} 
+
+.cont2 ul{  
+    justify-content: space-between;
+      display: flex; 
+  
+} 
+.cont2 ul li{  
+    padding: 0px 12px; 
+
+        }  
+        .cont2 ul :hover{  
+            transition: 0.3s;
+            color: blanchedalmond;
+        }   
+.cont2 ul li a{ 
+    color: black;
+}
+        .er{ 
+            height: 18px;
+        } 
+
+
+
+
+
+main{ 
+background-image: url('https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_1340/Lunch1_vlksgq'); 
+background-repeat: no-repeat;
+background-position: right; 
+background-size:35% 450px; 
+
+}  
+/* .img34{ 
+height: 35%;
+width: 450px;
+} */ 
+
+.salt{  
+flex: 50%;
+font-family: 'Roboto Slab', serif;  
+display: flex;
+/* justify-content: space-between;    */
+} 
+.salt b 
+{/* 
+position: relative;
+ top: 30px; 
+ left: 200px; */
+ padding: 10px; 
+ font-size: large;
+}  
+.salt .to a{  
+background-color: #fc8019;
+color: black; 
+box-shadow:    0 1px 3px 0 ;
+
+}   
+main{ 
+height: calc(100vh-);
+}
+
+.salt .to a:hover{  
+transition: 0.4s;
+color: aliceblue; 
+cursor: pointer;
+} 
+.salt b a:hover{  
+transition: 0.4s;
+color: #fc8019; 
+cursor: pointer;
+}
+.salt b a{ 
+text-decoration: none;
+color: #fc8019; 
+color:black;
+} 
+.salt h1{
+font-size: 65px; 
+color: #fc8019;
+}  
+.ship{ 
+display: flex;
+align-items: center;
+}
+.ship1{  
+width: 50%;
+padding: 40px;
+}  
+.ship2{ 
+width: 40%;
+}
+
+.kan1{ 
+width: 30%; 
+padding: 40px 70px 40px 0px;
+} 
+.cle{  
+font-size: 50px;
+ margin-left: 20px; 
+font-family: 'Dancing Script', cursive;
+}
+.cle1{   
+margin-left: 100px; 
+font-family: 'Patua One', cursive; 
+font-size: 20px;
+}
+
+.cls{    
+
+ font-size: 18px;
+text-align: center;
+margin-left: 250px; 
+font-family: 'Patua One', cursive;
+} 
+.cls1{   
+text-transform: capitalize;
+font-family: 'Dancing Script', cursive;
+font-size: 40px;
+margin-left: 250px; 
+}  
+
+.kan{  
+justify-content: space-between;
+display: flex;
+align-items: center;
+}  
+.kan1 img{ 
+width: 100%;
+object-fit: cover;
+height: 339px;  
+} 
+
+.ship1 img{ 
+width: 100%;
+/* height: 100px; */
+} 
+
+
+.late{ 
+margin: 30px 0px;
+}
+.late p{ 
+color: grey;
+font-size: larger;
+} 
+.late1{ 
+font-size: 30px; 
+margin: 9px 0px;
+}  
+button{  
+
+color: black;
+text-transform: uppercase; 
+background-color: gray;
+height: 22px;
+border: 2px solid gray;
+border-radius: 4px;
+}
+.ont{ 
+margin: 7px 0px 8px 25px ; 
+
+} 
+.ont input{ 
+width: 40%;
+height: 20px;
+}  
+.cont input{ 
+width: 100%;
+height: 20px;
+} 
+.ofo{ 
+color: black;
+text-transform: uppercase; 
+background-color: #fc8019;
+height: 27px;
+border: 2px solid #fc8019 ;
+border-radius: 4px;
+}
+
+
+/* .ufo {  
+
+
+f
+color: #93959f;
+}  */
+.lala{  
+font-size: bold; 
+
+padding: 5px 5px ;
+color: #93959f;
+} 
+.haha{  
+font-size: 15px; 
+font-style: bold; 
+padding: 5px 5px ;
+color: black;
+}
+.box{ 
+display: flex; 
+background-color: #282c3f;  
+justify-content: space-around;
+padding: 50px 0px;
+}  
+.box1 img{ 
+height: 190px;
+width: 93%;
+} 
+.box2 img{ 
+height: 190px;
+width: 93%;
+}
+.box3 img{ 
+height: 190px;
+width: 76%;
+} 
+
+.m2{ 
+color: white; 
+text-align: center;
+}
+
+footer{   
+color: white;
+background-color: black;
+display: flex; 
+align-items: center;
+justify-content: space-between; 
+
+}   
+.alf{ 
+margin-right: 30px;
+}
+.arsh img{ 
+width: 50%;
+}
+.ama{ 
+display: flex; 
+} 
+.ama1 img{ 
+padding: 0px 6px; 
+width:60%;
+height: 24px;
+} 
+.ama2 img{  
+padding: 0px 6px;
+width: 60%;
+height: 24px;
+} 
+.ama3 img{ 
+padding: 0px 6px;
+width: 60%;
+height: 24px;
+}  
+.late1{ 
+color: gray;
+}   
+
+
+footer{ 
+position: relative;
+bottom: 0px;
+}
+button:hover{ 
+color: white;
+background-color: #282c3f; 
+border: 2px solid #282c3f ;  
+transition: 0.3s; 
+cursor: pointer;
+}
+@media (max-width:1000px){  
+
+    header{ 
+        flex-direction: column; 
+        height: 130px;
+    } 
+.cont2,.cont3 { 
+        margin-top: 15px;
+    }  
+    main{ 
+        background-size: 32% 200px;
+    }
+   
+    .salt h1{ 
+        font-size: 25px;
+    } 
+    .salt .for , .salt .to{ 
+           font-size: 12px; 
+
+    } 
+    .late{ 
+         font-size:12px ; 
+         line-height: 10px;
+    } 
+    .late1{ 
+        font-size: 10px;
+    } 
+    .loc input{ 
+        width: 70%; 
+        height: 20px;
+    }  
+    .cit h2{ 
+        font-size: 12px;
+        
+    } 
+    .ufo .haha ,.ufo .lala{ 
+        font-size: 9px;
+    }
+   .ofo{ 
+    font-size: 10px;
+    height: 27px;
+   } 
+   .box1 img,.box2 img,.box3 img{
+      height: 100px;
+      width: 74%;
+   } 
+   .l{ 
+    font-size: 8px;
+   } 
+   .m2{ 
+    font-size: 9px;
+   }  
+.we1{  
+
+    width: 45%;
+    height: 200px;
+} 
+.we2{  
+    top:5px;
+    width: 45%;
+    height: 200px;
+} 
+
+.alf{ 
+font-size: 10px;
+}
+    
+} 
+@media(max-width:1100px)
+{ 
+ .ship1{ 
+    padding: 20px;
+ }
+.ship1 img{
+    height: 150px;
+} 
+.cls1{ 
+    font-size:20px;
+    margin-left: 30px;
+} 
+.cls{ 
+    font-size:12px;
+    margin-left: 30px;
+} 
+.kan1{  
+    width: 45%;
+    padding: 20px 35px 20px 20px;
+ }
+.kan1 img{
+    height: 150px;
+} 
+.cle{ 
+    font-size:17px;
+    margin-left: 30px;
+} 
+.cle1{ 
+    font-size:10px;
+    margin-left: 20px; 
+    text-align: center;
+}
+}
